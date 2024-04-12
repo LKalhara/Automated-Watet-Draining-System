@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\Lasinda Kalhara\Desktop\PAM\code\WATER_DS.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Lasinda Kalhara\Desktop\PAM\code\" -SP"C:\Users\Lasinda Kalhara\Desktop\PAM\New folder (2)\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "WATER_DS.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_C.mcl" "__Lib_EEPROM.mcl" "__Lib_FLASH_RW.mcl" "__Lib_I2C_c34.mcl" "__Lib_PWM_c21.mcl" "__Lib_SPI_c345.mcl" "__Lib_UART_c67.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_RS485.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl" "__Lib_EthEnc24j600.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	WATER_DS.c
+diagnostics: 162	123	Compiled Successfully	WATER_DS.c
+diagnostics: 0	127	All files Compiled in 875 ms	 
+hint: 0	1144	Used RAM (bytes): 167 (47%)  Free RAM (bytes): 185 (53%)	Used RAM (bytes): 167 (47%)  Free RAM (bytes): 185 (53%)
+hint: 0	1144	Used ROM (program words): 1894 (23%)  Free ROM (program words): 6298 (77%)	Used ROM (program words): 1894 (23%)  Free ROM (program words): 6298 (77%)
+diagnostics: 0	125	Project Linked Successfully	WATER_DS.mcppi
+diagnostics: 0	128	Linked in 187 ms	 
+diagnostics: 0	129	Project 'WATER_DS.mcppi' completed: 1203 ms	 
+diagnostics: 0	103	Finished successfully: 01 Oct 2021, 04:20:05	WATER_DS.mcppi
